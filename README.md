@@ -6,14 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Efficient+Software+Systems;C%2B%2B+%7C+C+Developer;SFML+Game+Developer;Problem+Solver+%7C+System+Thinker;Turning+Ideas+Into+Real+Projects" />
 
-</div>
-
 ---
 
 # 🏠 Welcome to my GitHub Portfolio 🚀
-
-<div align="center">
-
 
 A clean space where I build **systems, games, and logic-driven applications** using C++ and SFML.
 
@@ -23,7 +18,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 # 👨‍💻 ABOUT ME
 
-```txt id="about"
+```txt
 💻 Computer Science Student  
 🎯 Aspiring Software Engineer  
 ⚙️ Focus: C++ Development + SFML Game Development  
@@ -80,57 +75,31 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ---
 
-<div align="center">
-
-## 🚀 Featured Work
-
-</div>
-
----
+# 🚀 FEATURED PROJECTS
 
 ## ♟️ Chess Game — SFML / C++
-
-<div align="center">
 
 ```txt
 ⚡ Full chess engine built from scratch  
 🧠 Move validation + check/checkmate system  
 🔁 Undo / Redo functionality  
-🎮 SFML-based interactive gameplay (GUI upgrade path)
+🎮 SFML-based interactive gameplay
 ```
-
-</div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-Chess%20Engine-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SFML-Game%20Dev-8CC445?style=for-the-badge"/>
-</p>
 
 ---
 
 ## 🐍 Snake Game — SFML (In Progress)
 
-<div align="center">
-
 ```txt
 🎮 Classic Nokia-style Snake game  
 ⚙️ Smooth SFML rendering engine  
 💥 Collision detection + scoring system  
-🚧 Currently under active development
+🚧 Currently under development
 ```
-
-</div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SFML-Graphics%20Engine-8CC445?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Game-Snake%20Clone-black?style=for-the-badge"/>
-</p>
 
 ---
 
 ## 🎓 Student Portal System (C++)
-
-<div align="center">
 
 ```txt
 🔐 Secure login system (3 attempts protection)  
@@ -138,17 +107,9 @@ A clean space where I build **systems, games, and logic-driven applications** us
 💾 File-based data storage system  
 ```
 
-</div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/File%20Handling-Data%20System-orange?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 📊 Grade Calculator (C++)
-
-<div align="center">
 
 ```txt
 📁 Reads student marks from file  
@@ -156,13 +117,6 @@ A clean space where I build **systems, games, and logic-driven applications** us
 🏆 Assigns grades based on performance  
 📤 Outputs processed results to file
 ```
-
-</div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data-Processing-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C%2B%2B-Automation-00599C?style=for-the-badge"/>
-</p>
 
 ---
 
@@ -180,16 +134,11 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ---
 
----
-
 # 📊 GITHUB STATS
 
 <div align="center">
 
-## ⚡ Developer Overview
-
 <img src="https://github-readme-stats.vercel.app/api?username=Nouman-Irfan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman-Irfan&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
@@ -206,15 +155,6 @@ A clean space where I build **systems, games, and logic-driven applications** us
 <img src="https://img.shields.io/badge/Focus-System%20Building-purple?style=for-the-badge"/>
 
 </div>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Nouman-Irfan&color=00f7ff&style=flat" />
-
-</div>
-
----
-
 
 ---
 
@@ -244,7 +184,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 # ⚡ DEVELOPER PHILOSOPHY
 
-```cpp id="philosophy"
+```cpp
 while(true)
 {
     Think();
@@ -279,7 +219,7 @@ while(true)
 
 ---
 
-# 🚀 CLOSING SECTION
+# 🚀 CLOSING
 
 <div align="center">
 
