@@ -2,91 +2,106 @@
 
 # ⚡ Muhammad Nouman
 
-### 💻 C++ Developer • Problem Solver • Software Engineering Enthusiast
+### 💻 C++ Developer • Game Developer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Elite+C%2B%2B+Developer;Competitive+Programmer;Data+Structures+%26+Algorithms+Focused;Clean+Code+%7C+System+Thinking+%7C+Fast+Execution;Building+Real+World+Software+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=C%2B%2B+Developer+%7C+SFML+Game+Developer;Building+Chess+Engine+%26+Classic+Games;Focused+on+Clean+Code+%26+Performance;Turning+Ideas+into+Interactive+Systems" />
 
 </div>
 
 ---
 
-## 🧠 Profile Overview
+## ✨ ABOUT ME (Animated Core)
 
-```txt id="profile_overview"
-🎓 Computer Science Student – University of Central Punjab  
-💻 Core Stack: C++ | DSA | OOP | Problem Solving  
-⚙️ Focus: Algorithms, System Design, Efficient Code  
-🚀 Goal: Software Engineer at top tech company  
-🔥 Philosophy: Simple → Correct → Optimized → Scalable  
+```txt id="about"
+🚀 Developer Mode: ACTIVE  
+🧠 Thinking Level: SYSTEM DESIGN  
+💻 Primary Language: C++  
+🎮 Game Engine: SFML  
+♟️ Current Focus: Chess Engine Development  
+🕹️ Side Project: Nokia-Style Snake Game  
+⚙️ Style: Clean | Fast | Optimized  
+🎯 Goal: Build production-level software systems  
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 CURRENT WORK
 
-### 💡 Core Languages
+### ♟️ Chess Engine (In Progress)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
+* Move generation system
+* Board evaluation logic
+* Minimax / Alpha-Beta pruning
+* Future: AI opponent upgrade
+
+### 🐍 Snake Game (Nokia Style)
+
+* Classic grid-based movement
+* Collision system
+* Score tracking
+* Smooth SFML rendering
+
+---
+
+## ⚙️ TECH STACK
+
+### 💡 Core Language
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-### 🧰 Tools & Environment
+### 🎮 Game Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio" />
+<p>
+<img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,visualstudio" />
 </p>
 
 ---
 
-## 📊 Developer Identity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman-Irfan&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nouman-Irfan&theme=react-dark" width="100%"/>
-
-</div>
-
----
-
-## 🧩 Projects Architecture
+## 🎮 PROJECT SHOWCASE
 
 <details>
-<summary>🚀 Click to expand projects</summary>
+<summary>🚀 Click to view projects</summary>
 
-### 🔷 Core C++ Systems
+### ♟️ Chess Engine
 
-* Bank Management System (OOP + File Handling)
-* Student Record System (CRUD Operations)
-* Inventory Management System
+* Move validation system
+* Board representation logic
+* AI decision-making (Minimax concept)
+* Future upgrade: GUI + difficulty levels
 
-### 🔷 DSA Practice Hub
+### 🐍 Snake Game (SFML)
 
-* Sorting & Searching Visual Implementations
-* Linked List / Stack / Queue Library
-* Competitive Programming Solutions Archive
+* Retro Nokia-style gameplay
+* Smooth grid movement
+* Score system + speed scaling
+* Clean SFML rendering pipeline
 
-### 🔷 Upcoming Engineering Projects
+### ⚙️ Experimental Projects
 
-* Portfolio Website (React + Tailwind)
-* AI-Based Problem Solver
-* Full Stack Task Management System
+* Game physics experiments
+* Rendering optimization tests
+* Input handling systems
 
 </details>
 
 ---
 
-## 📈 Coding Loop Mindset
+## ⚡ DEVELOPER PHILOSOPHY
 
-```cpp id="coding_loop"
+```cpp id="philosophy"
 while(true)
 {
     Think();
     Design();
-    Code();
+    Build();
     Optimize();
     Repeat();
 }
@@ -94,12 +109,21 @@ while(true)
 
 ---
 
-## 📫 Connect With Me (One Click Access)
+## 📊 SKILL INDICATOR (VISUAL STYLE)
+
+🟢 C++ → Advanced
+🟢 SFML → Intermediate
+🟡 Game Development → Growing
+🟡 System Design → Learning
+
+---
+
+## 📫 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/Nouman-Irfan">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nouman-irfan01">
@@ -107,7 +131,7 @@ while(true)
 </a>
 
 <a href="mailto:noumanirfan595@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/923554987515">
@@ -118,35 +142,33 @@ while(true)
 
 ---
 
-## 🎯 Engineering Principles
+## 🧾 CONTACT INFO
 
-✔ Write readable code before optimized code
-✔ Prefer simplicity over complexity
-✔ Build systems, not scripts
-✔ Focus on fundamentals
-✔ Consistency > Motivation
+📧 Email: **[noumanirfan595@gmail.com](mailto:noumanirfan595@gmail.com)**
+📱 Phone: **+92 355 4987515**
+💬 WhatsApp: **Same Number Above**
 
 ---
 
-## 📌 GitHub Activity
+## ⚡ DEVELOPER LOOP
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nouman-Irfan&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman-Irfan&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+```cpp id="loop"
+while(true)
+{
+    Learn();
+    Build();
+    Debug();
+    Improve();
+}
+```
 
 ---
 
-## ⚡ Final Philosophy
+## 🎯 FINAL MINDSET
 
 <div align="center">
 
-### “Master fundamentals. Everything else becomes easy.”
+### “Great developers don’t just write code — they build systems.”
 
 <img src="https://komarev.com/ghpvc/?username=Nouman-Irfan&color=00f7ff&style=flat" />
 
