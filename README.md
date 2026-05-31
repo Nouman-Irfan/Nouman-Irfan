@@ -81,72 +81,106 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ---
 
-# 🚀 PROJECTS SHOWCASE
+<div align="center">
 
-## ♟️ Chess Game — SFML / GUI (C++)
+## 🚀 Featured Work
 
-* 2-player chess engine system
-* Move validation + rules enforcement
-* Check / Checkmate detection
-* Undo / Redo functionality
+</div>
+
+---
+
+## ♟️ Chess Game — SFML / C++
+
+<div align="center">
+
+```txt
+⚡ Full chess engine built from scratch  
+🧠 Move validation + check/checkmate system  
+🔁 Undo / Redo functionality  
+🎮 SFML-based interactive gameplay (GUI upgrade path)
+```
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-Chess%20Engine-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SFML-Game%20Dev-8CC445?style=for-the-badge"/>
+</p>
+
+---
+
+## 🐍 Snake Game — SFML (In Progress)
+
+<div align="center">
+
+```txt
+🎮 Classic Nokia-style Snake game  
+⚙️ Smooth SFML rendering engine  
+💥 Collision detection + scoring system  
+🚧 Currently under active development
+```
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SFML-Graphics%20Engine-8CC445?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game-Snake%20Clone-black?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🎓 Student Portal System (C++)
 
-* Secure login system (3 attempts)
-* Student registration & management
-* Result calculation system
-* File-based data storage
+<div align="center">
+
+```txt
+🔐 Secure login system (3 attempts protection)  
+📊 Student registration + result management  
+💾 File-based data storage system  
+🧠 Structured OOP design
+```
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-OOP%20System-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/File%20Handling-Data%20System-orange?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 Grade Calculator (C++)
 
-* Reads data from file
-* Automatic grade calculation
-* Average score computation
+<div align="center">
+
+```txt
+📁 Reads student marks from file  
+📈 Calculates averages automatically  
+🏆 Assigns grades based on performance  
+📤 Outputs processed results to file
+```
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data-Processing-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%2B%2B-Automation-00599C?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🔢 Consecutive Ones Finder (C++)
+## 🎮 MINI PROJECTS (HIDDEN CARD STYLE)
 
-* Dynamic memory handling
-* Binary file processing
-* Maximum consecutive sequence detection
+<details>
+<summary>⚡ Click to expand</summary>
 
----
+* 🔐 Password Strength Checker (C++)
+* 🎯 Rock Paper Scissors Game (C++)
+* 📈 Test Score Calculator (C++)
+* 🔢 Consecutive Ones Finder (C++)
 
-## 📈 Test Score Calculator (C++)
+</details>
 
-* Input validation system
-* Bubble sort algorithm
-* Average computation
-
----
-
-## 🔐 Password Strength Checker (C++)
-
-* Multi-rule validation engine
-* Strength scoring system
-
----
-
-## 🎮 Rock Paper Scissors (C++)
-
-* 2-player interactive game
-* Score tracking system
-* Round-based gameplay
-
----
-
-## 🐍 Snake Game (SFML) 🚧
-
-* Nokia-style classic gameplay
-* Smooth SFML rendering engine
-* Collision detection system
-* Score tracking
-* In active development
 
 ---
 
