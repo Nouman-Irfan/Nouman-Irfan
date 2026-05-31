@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Student • Aspiring Software Engineer • C++ & SFML Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Efficient+Software+Systems;C%2B%2B+%7C++%7C+C+Developer;SFML+Game+Developer;Problem+Solver+%7C+System+Thinker;Turning+Ideas+Into+Real+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Efficient+Software+Systems;C%2B%2B+%7C+C+Developer;SFML+Game+Developer;Problem+Solver+%7C+System+Thinker;Turning+Ideas+Into+Real+Projects" />
 
 </div>
 
@@ -47,15 +47,15 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ## 🎮 GAME DEVELOPMENT
 
-### 🟢 SFML (Game Engine Library)
+### 🟢 SFML (Simple and Fast Multimedia Library)
 
 <p align="center">
 <img src="https://www.sfml-dev.org/images/logo.png" width="140"/>
 </p>
 
 ✔ 2D Game Development
-✔ Graphics Rendering
-✔ Event Handling Systems
+✔ Graphics Rendering Systems
+✔ Event Handling & Input Systems
 ✔ Game Logic Implementation
 
 ---
@@ -66,13 +66,13 @@ A clean space where I build **systems, games, and logic-driven applications** us
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,kali,github" />
 </p>
 
-### 🎨 Creative Tools
+### 🎨 CREATIVE TOOLS
 
 <p>
 <img src="https://skillicons.dev/icons?i=canva,photoshop" />
 </p>
 
-### 🎬 Editing & Productivity
+### 🎬 EDITING & PRODUCTIVITY
 
 <p>
 <img src="https://skillicons.dev/icons?i=premierepro" />
@@ -83,12 +83,12 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 # 🚀 PROJECTS SHOWCASE
 
-## ♟️ Chess Game — SFML/GUI (C++)
+## ♟️ Chess Game — SFML / GUI (C++)
 
-* 2-player chess system
-* Move validation logic
+* 2-player chess engine system
+* Move validation + rules enforcement
 * Check / Checkmate detection
-* Undo / Redo system
+* Undo / Redo functionality
 
 ---
 
@@ -97,13 +97,13 @@ A clean space where I build **systems, games, and logic-driven applications** us
 * Secure login system (3 attempts)
 * Student registration & management
 * Result calculation system
-* File handling database
+* File-based data storage
 
 ---
 
 ## 📊 Grade Calculator (C++)
 
-* File-based input/output system
+* Reads data from file
 * Automatic grade calculation
 * Average score computation
 
@@ -111,9 +111,9 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ## 🔢 Consecutive Ones Finder (C++)
 
-* Dynamic memory usage
+* Dynamic memory handling
 * Binary file processing
-* Maximum sequence detection
+* Maximum consecutive sequence detection
 
 ---
 
@@ -127,15 +127,15 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ## 🔐 Password Strength Checker (C++)
 
-* Multi-rule validation
+* Multi-rule validation engine
 * Strength scoring system
 
 ---
 
 ## 🎮 Rock Paper Scissors (C++)
 
-* 2-player game system
-* Score tracking
+* 2-player interactive game
+* Score tracking system
 * Round-based gameplay
 
 ---
@@ -143,9 +143,10 @@ A clean space where I build **systems, games, and logic-driven applications** us
 ## 🐍 Snake Game (SFML) 🚧
 
 * Nokia-style classic gameplay
-* Smooth SFML rendering
-* Collision + score system
-* Currently in development
+* Smooth SFML rendering engine
+* Collision detection system
+* Score tracking
+* In active development
 
 ---
 
@@ -161,7 +162,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:numanirfan595@gmail.com">
+<a href="mailto:noumanirfan595@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
