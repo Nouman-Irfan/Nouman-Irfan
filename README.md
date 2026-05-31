@@ -137,13 +137,11 @@ A clean space where I build **systems, games, and logic-driven applications** us
 🔐 Secure login system (3 attempts protection)  
 📊 Student registration + result management  
 💾 File-based data storage system  
-🧠 Structured OOP design
 ```
 
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-OOP%20System-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/File%20Handling-Data%20System-orange?style=for-the-badge"/>
 </p>
 
@@ -169,7 +167,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ---
 
-## 🎮 MINI PROJECTS (HIDDEN CARD STYLE)
+## 🎮 MINI PROJECTS
 
 <details>
 <summary>⚡ Click to expand</summary>
