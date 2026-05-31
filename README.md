@@ -36,9 +36,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,kali" />
 </p>
 
-### 🧰 DEV C++
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Dev-C%2B%2B_Icon.png" width="45"/>
 
 ---
 
