@@ -10,11 +10,10 @@
 
 ---
 
-# 🏠 LANDING PAGE
+# 🏠 Welcome to my GitHub Portfolio 🚀
 
 <div align="center">
 
-### 🚀 Welcome to my GitHub Portfolio
 
 A clean space where I build **systems, games, and logic-driven applications** using C++ and SFML.
 
