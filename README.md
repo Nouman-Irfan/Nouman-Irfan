@@ -10,19 +10,13 @@
 
 ## 🚀 ABOUT ME
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
-
-</div>
-
 ```txt
 💻 Computer Science Student  
 🎯 Aspiring Software Engineer  
 ⚙️ Focus: C++ Development + SFML Game Dev  
 🧠 Interest: Problem Solving, System Design, Logic Building  
 🔥 Passion: Turning ideas into real working systems  
-
+```txt
 ---
 
 ## 🧠 SKILLS OVERVIEW
