@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Student • Aspiring Software Engineer • C++ & SFML Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Efficient+Software+Systems;C%2B%2B+%7C++%7C+C+++Developer;SFML+Game+Developer;Problem+Solver+%7C+System+Thinker;Turning+Ideas+Into+Real+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Efficient+Software+Systems;C%2B%2B+%7C++%7C+C+Developer;SFML+Game+Developer;Problem+Solver+%7C+System+Thinker;Turning+Ideas+Into+Real+Projects" />
 
 </div>
 
