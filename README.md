@@ -1,49 +1,36 @@
 <div align="center">
 
-# ⚡ NEON PORTFOLIO — Muhammad Nouman ⚡
+# ⚡ Muhammad Nouman
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Cyberpunk+C%2B%2B+Developer;Problem+Solver+%7C+DSA+Engineer+%7C+System+Thinker;Building+Efficient+%26+Scalable+Software;Welcome+to+My+GitHub+Portfolio" />
+### 💻 C++ Developer • Problem Solver • Software Engineering Enthusiast
 
----
-
-<img src="https://user-images.githubusercontent.com/placeholder/cyberpunk-banner.gif" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Elite+C%2B%2B+Developer;Competitive+Programmer;Data+Structures+%26+Algorithms+Focused;Clean+Code+%7C+System+Thinking+%7C+Fast+Execution;Building+Real+World+Software+Systems" />
 
 </div>
 
 ---
 
-# 🧭 NAVIGATION PANEL
+## 🧠 Profile Overview
 
-<div align="center">
-
-[⚡ About](#-about-me) • [🧠 Skills](#-tech-core) • [🚀 Projects](#-project-grid) • [📡 Contact](#-connect-with-me)
-
-</div>
-
----
-
-# ⚡ ABOUT ME
-
-```txt id="about_section"
-NAME        : Muhammad Nouman  
-ROLE        : C++ Developer / Problem Solver  
-FOCUS       : DSA • OOP • System Design  
-STATUS      : Leveling up daily 🚀  
-GOAL        : Top Software Engineer  
-STYLE       : Clean Code + Smart Logic  
+```txt id="profile_overview"
+🎓 Computer Science Student – University of Central Punjab  
+💻 Core Stack: C++ | DSA | OOP | Problem Solving  
+⚙️ Focus: Algorithms, System Design, Efficient Code  
+🚀 Goal: Software Engineer at top tech company  
+🔥 Philosophy: Simple → Correct → Optimized → Scalable  
 ```
 
 ---
 
-# 🧠 TECH CORE
+## ⚙️ Tech Stack
 
-## ⚙️ Languages
+### 💡 Core Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
 
-## 🧰 Systems & Tools
+### 🧰 Tools & Environment
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio" />
@@ -51,38 +38,7 @@ STYLE       : Clean Code + Smart Logic
 
 ---
 
-# 🚀 PROJECT GRID
-
-<div align="center">
-
-## 💻 Core Systems
-
-🟣 Bank Management System
-🟣 Student Record System
-🟣 Inventory Control System
-
----
-
-## 🧠 DSA ENGINE
-
-🟣 Sorting Algorithms Visualized
-🟣 Linked List Framework
-🟣 Stack / Queue Library
-🟣 Competitive Programming Archive
-
----
-
-## 🌐 FUTURE BUILDS
-
-🟣 AI Problem Solver Engine
-🟣 Full Stack Portfolio Website
-🟣 Developer Productivity App
-
-</div>
-
----
-
-# 📊 SYSTEM STATUS (GITHUB LIVE)
+## 📊 Developer Identity
 
 <div align="center">
 
@@ -96,69 +52,101 @@ STYLE       : Clean Code + Smart Logic
 
 ---
 
-# 📡 CONNECT WITH ME
+## 🧩 Projects Architecture
 
-<div align="center">
+<details>
+<summary>🚀 Click to expand projects</summary>
 
-## 🔗 ONE-CLICK ACCESS PORTAL
+### 🔷 Core C++ Systems
 
-<a href="https://github.com/Nouman-Irfan">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* Bank Management System (OOP + File Handling)
+* Student Record System (CRUD Operations)
+* Inventory Management System
 
-<a href="https://www.linkedin.com/in/nouman-irfan01">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🔷 DSA Practice Hub
 
-<a href="mailto:noumanirfan595@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+* Sorting & Searching Visual Implementations
+* Linked List / Stack / Queue Library
+* Competitive Programming Solutions Archive
 
-<a href="https://wa.me/923554987515">
-  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+### 🔷 Upcoming Engineering Projects
 
----
+* Portfolio Website (React + Tailwind)
+* AI-Based Problem Solver
+* Full Stack Task Management System
 
-📧 Email: **[noumanirfan595@gmail.com](mailto:noumanirfan595@gmail.com)**
-📱 Phone: **+92 355 4987515**
-
-</div>
+</details>
 
 ---
 
-# ⚡ CODING ENGINE LOOP
+## 📈 Coding Loop Mindset
 
-```cpp id="loop"
+```cpp id="coding_loop"
 while(true)
 {
     Think();
-    Architect();
+    Design();
     Code();
     Optimize();
-    Deploy();
+    Repeat();
 }
 ```
 
 ---
 
-# 🧬 DEVELOPER RANK SYSTEM
-
-```txt id="rank"
-Level: 01 → Beginner  
-Level: 25 → Intermediate  
-Level: 50 → Advanced  
-Level: 75 → Expert  
-Level: 100 → ELITE ENGINEER 🚀
-```
-
----
-
-# ⚡ FINAL MESSAGE
+## 📫 Connect With Me (One Click Access)
 
 <div align="center">
 
-## “You don’t learn to code. You learn to build systems.”
+<a href="https://github.com/Nouman-Irfan">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nouman-irfan01">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:noumanirfan595@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923554987515">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🎯 Engineering Principles
+
+✔ Write readable code before optimized code
+✔ Prefer simplicity over complexity
+✔ Build systems, not scripts
+✔ Focus on fundamentals
+✔ Consistency > Motivation
+
+---
+
+## 📌 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nouman-Irfan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman-Irfan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## ⚡ Final Philosophy
+
+<div align="center">
+
+### “Master fundamentals. Everything else becomes easy.”
 
 <img src="https://komarev.com/ghpvc/?username=Nouman-Irfan&color=00f7ff&style=flat" />
 
