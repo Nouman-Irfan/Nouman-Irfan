@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Student • Aspiring Software Engineer • C++ & SFML Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Efficient+Software+Systems;C%2B%2B+%7C+C+%7C+Python+Developer;SFML+Game+Developer;Problem+Solver+%7C+System+Thinker;Turning+Ideas+Into+Real+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Efficient+Software+Systems;C%2B%2B+%7C+C+%7C+C+++Developer;SFML+Game+Developer;Problem+Solver+%7C+System+Thinker;Turning+Ideas+Into+Real+Projects" />
 
 </div>
 
@@ -63,7 +63,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
 ## ⚙️ TOOLS & ENVIRONMENT
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,kali,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,kali,github" />
 </p>
 
 ### 🎨 Creative Tools
@@ -83,7 +83,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 # 🚀 PROJECTS SHOWCASE
 
-## ♟️ Chess Game — Terminal (C++)
+## ♟️ Chess Game — SFML/GUI (C++)
 
 * 2-player chess system
 * Move validation logic
@@ -161,7 +161,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:noumanirfan595@gmail.com">
+<a href="mailto:numanirfan595@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
