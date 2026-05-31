@@ -16,7 +16,8 @@
 ⚙️ Focus: C++ Development + SFML Game Dev  
 🧠 Interest: Problem Solving, System Design, Logic Building  
 🔥 Passion: Turning ideas into real working systems  
-```txt
+```
+
 ---
 
 ## 🧠 SKILLS OVERVIEW
@@ -35,14 +36,15 @@
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,kali" />
 </p>
 
-
 ---
 
 ## 🎮 GAME DEVELOPMENT
 
 ### 🟢 SFML (Simple and Fast Multimedia Library)
 
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SFML_Logo.svg" width="120"/>
+</p>
 
 💡 Used for:
 
@@ -69,7 +71,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="mailto:numanirfan595@gmail.com">
+<a href="mailto:noumanirfan595@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -89,18 +91,20 @@
 
 ## 🏛️ FINAL MINDSET
 
-
 <div align="center">
 
-### “VENI VIDI VICI [Julius Caesar]”
-### “I came, I saw, I conquered”
+### ⚡ VENI, VIDI, VICI ⚡
+
+### *I came. I saw. I conquered.*
+
 </div>
+
 ---
 
-## ⚡ CLOSING STATEMENT
+## 🚀 CLOSING STATEMENT
 
 <div align="center">
 
-### 🚀 Focus. Build. Improve. Repeat.
+### Focus. Build. Improve. Repeat.
 
 </div>
