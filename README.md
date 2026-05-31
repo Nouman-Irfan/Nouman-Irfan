@@ -93,20 +93,11 @@
 
 ## 🏛️ FINAL MINDSET
 
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="180" />
-
-### ⚡ VENI VIDI VICI ⚡
-
-#### *I came. I saw. I conquered.*
-
-<br>
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" />
-
-### 🚀 “Great developers don’t just write code — they build systems.”
-
+### “VENI VIDI VICI [Julius Caesar]”
+### “I came, I saw, I conquered”
 </div>
 ---
 
