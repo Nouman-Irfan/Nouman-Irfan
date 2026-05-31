@@ -1,126 +1,165 @@
-# <div align="center">👋 Muhammad Nouman</div>
-
 <div align="center">
 
-### 💻 C++ Developer • Problem Solver • Computer Science Student
+# ⚡ NEON PORTFOLIO — Muhammad Nouman ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Passionate+C%2B%2B+Developer;Problem+Solver+%26+Competitive+Programmer;Computer+Science+Student;Building+Projects+One+Line+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Cyberpunk+C%2B%2B+Developer;Problem+Solver+%7C+DSA+Engineer+%7C+System+Thinker;Building+Efficient+%26+Scalable+Software;Welcome+to+My+GitHub+Portfolio" />
+
+---
+
+<img src="https://user-images.githubusercontent.com/placeholder/cyberpunk-banner.gif" width="100%" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🧭 NAVIGATION PANEL
 
-🎓 Bachelor of Science in Computer Science
+<div align="center">
 
-🏫 University of Central Punjab
+[⚡ About](#-about-me) • [🧠 Skills](#-tech-core) • [🚀 Projects](#-project-grid) • [📡 Contact](#-connect-with-me)
 
-💻 Passionate about Software Development and Problem Solving
-
-🧠 Strong interest in Data Structures & Algorithms
-
-🌱 Currently learning Advanced C++, OOP, and Software Engineering
-
-⚡ Goal: Become a highly skilled Software Engineer and contribute to impactful projects
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ ABOUT ME
 
-### Programming Languages
+```txt id="about_section"
+NAME        : Muhammad Nouman  
+ROLE        : C++ Developer / Problem Solver  
+FOCUS       : DSA • OOP • System Design  
+STATUS      : Leveling up daily 🚀  
+GOAL        : Top Software Engineer  
+STYLE       : Clean Code + Smart Logic  
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python" />
+---
+
+# 🧠 TECH CORE
+
+## ⚙️ Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
 
-### Tools & Technologies
+## 🧰 Systems & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio" />
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+# 🚀 PROJECT GRID
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+## 💻 Core Systems
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+🟣 Bank Management System
+🟣 Student Record System
+🟣 Inventory Control System
+
+---
+
+## 🧠 DSA ENGINE
+
+🟣 Sorting Algorithms Visualized
+🟣 Linked List Framework
+🟣 Stack / Queue Library
+🟣 Competitive Programming Archive
+
+---
+
+## 🌐 FUTURE BUILDS
+
+🟣 AI Problem Solver Engine
+🟣 Full Stack Portfolio Website
+🟣 Developer Productivity App
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 SYSTEM STATUS (GITHUB LIVE)
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman-Irfan&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nouman-Irfan&theme=react-dark" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 📡 CONNECT WITH ME
 
-* 🧩 Problem Solver
-* 💻 C++ Enthusiast
-* 📚 Lifelong Learner
-* 🚀 Open Source Explorer
-* 🎯 Consistent Skill Development
+<div align="center">
+
+## 🔗 ONE-CLICK ACCESS PORTAL
+
+<a href="https://github.com/Nouman-Irfan">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nouman-irfan01">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:noumanirfan595@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923554987515">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 ---
 
-## 📌 Current Focus
+📧 Email: **[noumanirfan595@gmail.com](mailto:noumanirfan595@gmail.com)**
+📱 Phone: **+92 355 4987515**
 
-```cpp
+</div>
+
+---
+
+# ⚡ CODING ENGINE LOOP
+
+```cpp id="loop"
 while(true)
 {
-    Learn();
-    Build();
-    Debug();
-    Improve();
+    Think();
+    Architect();
+    Code();
+    Optimize();
+    Deploy();
 }
 ```
 
 ---
 
-## 🌟 Featured Skills
+# 🧬 DEVELOPER RANK SYSTEM
 
-✔ Object-Oriented Programming
-
-✔ Data Structures
-
-✔ Algorithms
-
-✔ Competitive Programming
-
-✔ Git & GitHub
-
-✔ Software Development
+```txt id="rank"
+Level: 01 → Beginner  
+Level: 25 → Intermediate  
+Level: 50 → Advanced  
+Level: 75 → Expert  
+Level: 100 → ELITE ENGINEER 🚀
+```
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Nouman-Irfan">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="www.linkedin.com/in/nouman-irfan01">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
-
----
+# ⚡ FINAL MESSAGE
 
 <div align="center">
 
-### "Code. Learn. Improve. Repeat."
+## “You don’t learn to code. You learn to build systems.”
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Nouman-Irfan&color=00f7ff&style=flat" />
 
 </div>
