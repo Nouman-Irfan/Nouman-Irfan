@@ -178,6 +178,43 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 </details>
 
+---
+
+---
+
+# 📊 GITHUB STATS
+
+<div align="center">
+
+## ⚡ Developer Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nouman-Irfan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman-Irfan&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## ⚡ QUICK DEV METRICS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-Primary%20Language-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SFML-Game%20Development-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects-Active-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-System%20Building-purple?style=for-the-badge"/>
+
+</div>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Nouman-Irfan&color=00f7ff&style=flat" />
+
+</div>
+
+---
+
 
 ---
 
