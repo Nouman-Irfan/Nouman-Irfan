@@ -18,14 +18,17 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 # 👨‍💻 ABOUT ME
 
-```txt
-💻 Computer Science Student  
-🎯 Aspiring Software Engineer  
-⚙️ Focus: C++ Development + SFML Game Development  
-🧠 Interests: Problem Solving, System Design, Logic Building  
-🔥 Passion: Turning ideas into real working software systems  
-🚀 Goal: Become a top-tier Software Engineer  
-```
+<div align="center">
+
+## ⚡ BUILDING SOFTWARE WITH PURPOSE ⚡
+
+### *Computer Science Student • C++ Developer • Problem Solver*
+
+</div>
+
+I am a Computer Science student passionate about software engineering, system design, and game development. I enjoy transforming ideas into practical applications through clean code, logical thinking, and continuous learning. My current focus is C++ development, SFML-based projects, and strengthening my problem-solving skills to become a high-impact software engineer.
+
+---
 
 ---
 
