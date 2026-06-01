@@ -34,6 +34,54 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ---
 
+<!-- 🏆 ACHIEVEMENTS & ACTIVITIES -->
+
+<h1 align="center">🏆 Achievements & Activities</h1>
+
+<div align="center">
+
+<h2>⚡ Learning • Leadership • Impact ⚡</h2>
+
+<h3><i>Continuous Growth Through Education, Events, and Community Engagement</i></h3>
+
+</div>
+
+<ul>
+  <li>
+    <strong>🎓 Harvard University — CS50x: Introduction to Computer Science</strong>
+  </li>
+
+  <li>
+    <strong>🛡️ Harvard University — CS50: Introduction to Cybersecurity</strong>
+  </li>
+
+  <li>
+    <strong>🎪 UCP Career Connect 2026</strong>
+    <ul>
+      <li>Operations Team Member</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>🌸 Jashn-e-Baharaan</strong>
+    <ul>
+      <li>Certificate of Achievement</li>
+      <li>Logistics & Operations Team Member</li>
+      <li>Sponsorship Team Associate Member</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>🤝 Inclusive Student Society (ISS)</strong>
+    <ul>
+      <li>Team Participation Certificate</li>
+    </ul>
+  </li>
+</ul>
+
+<hr>
+
+---
 # 🧠 SKILLS
 
 ## 💡 Programming Languages
