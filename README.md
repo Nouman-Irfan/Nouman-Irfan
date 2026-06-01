@@ -98,11 +98,16 @@ A clean space where I build **systems, games, and logic-driven applications** us
 ### 🎨 DESIGN, EDITING & PRODUCTIVITY
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50" alt="Premiere Pro" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" alt="After Effects" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" alt="Canva" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="35" alt="Photoshop" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35" alt="Premiere Pro" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="After Effects" />
+  
+  <!-- FIXED CANVA ICON -->
+  <img src="https://skillicons.dev/icons?i=canva" height="35" alt="Canva" />
+  
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="35" alt="Microsoft Office" />
 </p>
 
 
