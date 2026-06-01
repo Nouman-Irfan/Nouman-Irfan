@@ -104,7 +104,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" alt="Canva" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
 </p>
----
+
 
 # 🚀 FEATURED PROJECTS
 
