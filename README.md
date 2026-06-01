@@ -32,7 +32,6 @@ A clean space where I build **systems, games, and logic-driven applications** us
 - 🚀 Building projects that turn ideas into real software
 - 🔥 Continuously learning, improving, and creating
 
----
 
 ---
 
@@ -40,9 +39,6 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 <div align="center">
 
-## ⚡ Continuous Learning • Leadership • Community Engagement ⚡
-
-### <i>Building technical expertise while contributing to impactful initiatives</i>
 
 </div>
 
@@ -68,10 +64,6 @@ A clean space where I build **systems, games, and logic-driven applications** us
 #### Inclusive Student Society (ISS)
 - Team Participation Certificate
 - Active Team Member
-
-> **Committed to continuous learning, leadership development, teamwork, and building meaningful impact through technology and community engagement.**
-
----
 
 ---
 # 🧠 SKILLS
