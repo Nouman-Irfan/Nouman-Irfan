@@ -20,9 +20,6 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 <div align="center">
 
-## ⚡ COMPUTER SCIENCE STUDENT ⚡
-
-### *Aspiring Software Engineer & C++ Developer*
 
 </div>
 
