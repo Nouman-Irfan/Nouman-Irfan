@@ -51,10 +51,10 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ### 🎪 Leadership & Event Management
 
-#### UCP Career Connect 2026
+#### 🎯 UCP Career Connect 2026
 - Operations Team Member
 
-#### Jashn-e-Baharaan
+#### 🌸 Jashn-e-Baharaan
 - Certificate of Achievement Recipient
 - Logistics & Operations Team Member
 - Sponsorship Team Associate Member
@@ -94,18 +94,13 @@ A clean space where I build **systems, games, and logic-driven applications** us
 ## ⚙️ TOOLS & ENVIRONMENT
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,kali,github" />
-</p>
-
-### 🎨 CREATIVE TOOLS
-
-<p>
-<img src="https://skillicons.dev/icons?i=canva,photoshop" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,kali,git,github" />
 </p>
 
 ### 🎬 EDITING & PRODUCTIVITY
 
 <p>
+<img src="https://skillicons.dev/icons?i=canva,photoshop" />
 <img src="https://skillicons.dev/icons?i=premierepro" />
 <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
