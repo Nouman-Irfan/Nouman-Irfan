@@ -33,7 +33,6 @@ A clean space where I build **systems, games, and logic-driven applications** us
 - 🔥 Continuously learning, improving, and creating
 
 ---
----
 
 # 🧠 SKILLS
 
