@@ -36,14 +36,9 @@ A clean space where I build **systems, games, and logic-driven applications** us
 ---
 
 # 🏆 ACHIEVEMENTS & LEADERSHIP
-
 <div align="center">
-
-
 </div>
-
 <br>
-
 ### 🎓 Certifications
 
 - **Harvard University — CS50x: Introduction to Computer Science**
