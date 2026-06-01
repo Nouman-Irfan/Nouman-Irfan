@@ -92,14 +92,15 @@ A clean space where I build **systems, games, and logic-driven applications** us
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,kali,git,github" />
 </p>
 
-### 🎬 EDITING & PRODUCTIVITY
+### 🎨 DESIGN, EDITING & PRODUCTIVITY
 
-<p>
-<img src="https://skillicons.dev/icons?i=canva,photoshop" />
-<img src="https://skillicons.dev/icons?i=premierepro" />
-<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50" alt="Premiere Pro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" alt="After Effects" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" alt="Canva" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
 </p>
-
 ---
 
 # 🚀 FEATURED PROJECTS
