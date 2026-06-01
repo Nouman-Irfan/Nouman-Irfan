@@ -104,8 +104,6 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="After Effects" />
 
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="Canva" />
-
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="35" alt="Microsoft Office" />
 </p>
 
