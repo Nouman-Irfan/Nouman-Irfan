@@ -34,52 +34,44 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ---
 
-<!-- 🏆 ACHIEVEMENTS & ACTIVITIES -->
+---
 
-<h1 align="center">🏆 Achievements & Activities</h1>
+# 🏆 ACHIEVEMENTS & LEADERSHIP
 
 <div align="center">
 
-<h2>⚡ Learning • Leadership • Impact ⚡</h2>
+## ⚡ Continuous Learning • Leadership • Community Engagement ⚡
 
-<h3><i>Continuous Growth Through Education, Events, and Community Engagement</i></h3>
+### <i>Building technical expertise while contributing to impactful initiatives</i>
 
 </div>
 
-<ul>
-  <li>
-    <strong>🎓 Harvard University — CS50x: Introduction to Computer Science</strong>
-  </li>
+<br>
 
-  <li>
-    <strong>🛡️ Harvard University — CS50: Introduction to Cybersecurity</strong>
-  </li>
+### 🎓 Certifications
 
-  <li>
-    <strong>🎪 UCP Career Connect 2026</strong>
-    <ul>
-      <li>Operations Team Member</li>
-    </ul>
-  </li>
+- **Harvard University — CS50x: Introduction to Computer Science**
+- **Harvard University — CS50: Introduction to Cybersecurity**
 
-  <li>
-    <strong>🌸 Jashn-e-Baharaan</strong>
-    <ul>
-      <li>Certificate of Achievement</li>
-      <li>Logistics & Operations Team Member</li>
-      <li>Sponsorship Team Associate Member</li>
-    </ul>
-  </li>
+### 🎪 Leadership & Event Management
 
-  <li>
-    <strong>🤝 Inclusive Student Society (ISS)</strong>
-    <ul>
-      <li>Team Participation Certificate</li>
-    </ul>
-  </li>
-</ul>
+#### UCP Career Connect 2026
+- Operations Team Member
 
-<hr>
+#### Jashn-e-Baharaan
+- Certificate of Achievement Recipient
+- Logistics & Operations Team Member
+- Sponsorship Team Associate Member
+
+### 🤝 Community Involvement
+
+#### Inclusive Student Society (ISS)
+- Team Participation Certificate
+- Active Team Member
+
+> **Committed to continuous learning, leadership development, teamwork, and building meaningful impact through technology and community engagement.**
+
+---
 
 ---
 # 🧠 SKILLS
