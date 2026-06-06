@@ -80,6 +80,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 <p align="center">
 <img src="https://www.sfml-dev.org/images/logo.png" width="140"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="140"/>
 </p>
 
 ✔ 2D Game Development
