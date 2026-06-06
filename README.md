@@ -76,14 +76,14 @@ A clean space where I build **systems, games, and logic-driven applications** us
 
 ## 🎮 GAME DEVELOPMENT
 
-### 🟢 SFML (Simple and Fast Multimedia Library)
+### 🟢 SFML (Simple and Fast Multimedia Library) || 🟢 JavaFX
 
 <p align="center">
 <img src="https://www.sfml-dev.org/images/logo.png" width="140"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="140"/>
 </p>
 
-✔ 2D Game Development
+✔ 2D & 3D Game Development
 ✔ Graphics Rendering Systems
 ✔ Event Handling & Input Systems
 ✔ Game Logic Implementation
