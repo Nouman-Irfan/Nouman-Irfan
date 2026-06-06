@@ -69,7 +69,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
 ## 💡 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
 
 ---
