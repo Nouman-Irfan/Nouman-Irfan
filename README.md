@@ -84,7 +84,7 @@ A clean space where I build **systems, games, and logic-driven applications** us
 <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="140"/>
 </p>
 
-✔ 2D & 3D Game Development
+✔ 2D Game Development
 ✔ Graphics Rendering Systems
 ✔ Event Handling & Input Systems
 ✔ Game Logic Implementation
